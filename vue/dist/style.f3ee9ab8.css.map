@@ -1,0 +1,1 @@
+{"version":3,"sources":["less/less/style.less"],"names":[],"mappings":"AAAA;EACE,qBAAA;;AADF,IAGE;EACE,uBAAA","file":"style.f3ee9ab8.css","sourceRoot":"../src","sourcesContent":["body {\n  background-color: red;\n\n  #app {\n    background-color: green;\n  }\n}\n"]}

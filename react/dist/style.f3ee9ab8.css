@@ -1,0 +1,28 @@
+body {
+  background-color: #0d0127;
+  color: white;
+  width: 50%;
+  margin: auto;
+}
+a {
+  color: yellow;
+}
+nav li {
+  list-style-type: none;
+  float: left;
+  margin-left: 20px;
+}
+.main-nav {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.main-nav li {
+  font-size: 1.5em;
+  text-align: center;
+  margin-left: 0;
+  width: 50%;
+}
+
+
+/*# sourceMappingURL=/style.f3ee9ab8.css.map */
